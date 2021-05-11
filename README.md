@@ -1,4 +1,4 @@
-# Terraim Mesh
+# Terrain Mesh
 For this project I plan on learning how to create/generate mesh's in Unity
 
 ## Installing
