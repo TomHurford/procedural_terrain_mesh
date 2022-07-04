@@ -17,6 +17,3 @@ git clone https://github.com/TomHurford/procedural_terrain_mesh.git
 ## Resources
 
 [Brackeys MESH GENERATION Basics](https://youtu.be/eJEpeUH1EMg)
-
-
-This is a changing Doc
